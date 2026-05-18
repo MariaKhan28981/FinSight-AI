@@ -1,0 +1,2 @@
+right click in the file explorer and create a new file with an .ipynb extension. 
+or open coomand pallete and run the command "New Jupyter Notebook"
