@@ -1,0 +1,10 @@
+What does the columns represent financially?
+
+Typical stock columns:
+
+COLUMNS	MEANING
+Open	price at market opening
+Close	final market price
+High	highest price that day
+Low	    lowest price that day
+Volume	number of shares traded
