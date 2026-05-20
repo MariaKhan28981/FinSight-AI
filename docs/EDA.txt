@@ -8,3 +8,5 @@ Close	final market price
 High	highest price that day
 Low	    lowest price that day
 Volume	number of shares traded
+
+target variable-that will be predicted later-close
