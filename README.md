@@ -213,6 +213,9 @@ streamlit run app.py
 * Real-time prediction updates
 * Portfolio analysis features
 
+## Live Demo
+    https://finsight-ai-mdywdwnssfq9us7hkfzbz3.streamlit.app/
+    
 ## Author
 
 Maria Khan
